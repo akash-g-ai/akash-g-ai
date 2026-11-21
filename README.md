@@ -14,7 +14,6 @@ I build across the intersection of Artificial Intelligence, Data Science and Sof
 <a href="https://www.linkedin.com/in/akash-g-fullstack"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:nikzakash@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-[Portfolio](https://akashg-ai-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/akash-g-fullstack) · [GitHub](https://github.com/akash-g-ai)
 
 </div>
 
